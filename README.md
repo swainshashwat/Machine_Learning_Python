@@ -16,9 +16,7 @@ Download and Install Jupyter-Notebook from http://jupyter.org/install.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Shashwat Sourav Swain** - *Initial work* - [PurpleBooth](https://github.com/astaroth88)
 
 ## Acknowledgments
 
